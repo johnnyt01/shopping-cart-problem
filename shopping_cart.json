@@ -1,0 +1,38 @@
+[
+    {
+        "item_id": "1",
+        "name": "Salmon",
+        "price": 11.33,
+        "isTaxable": true
+    },
+    {
+        "item_id": "2",
+        "name": "Bananas",
+        "price": 1.46,
+        "isTaxable": true
+    },
+    {
+        "item_id": "3",
+        "name": "Milk",
+        "price": 2.33,
+        "isTaxable": false
+    },
+    {
+        "item_id": "4",
+        "name": "Bread",
+        "price": 4.10,
+        "isTaxable": true
+    },
+    {
+        "item_id": "5",
+        "name": "Chips",
+        "price": 3.07,
+        "isTaxable": true
+    },
+    {
+        "item_id": "6",
+        "name": "Cucumber",
+        "price": 1.73,
+        "isTaxable": false
+    }
+]
